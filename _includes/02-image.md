@@ -1,1 +1,1 @@
-# <img src="/images/some-image.png" alt="hey friends">
+# ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
